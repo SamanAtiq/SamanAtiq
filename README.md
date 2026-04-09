@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=header" width="100%"/>
 </div>
 
-<h2 align="center">Hello, I'm Saman Atiq</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Hi+there%2C+I%27m+Saman!+%F0%9F%91%8B" alt="Typing SVG"/>
+</p>
 <p align="center">Aspiring Data Analyst / Data Engineer &nbsp;|&nbsp; 3rd Year Combined Major in Science (CS focus) @ UBC</p>
 
 ---
